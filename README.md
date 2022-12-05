@@ -3,7 +3,6 @@
 <h3 align="center">🌟 Skills</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>&nbsp 
