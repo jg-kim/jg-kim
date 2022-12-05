@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=jg-kim&fontSize=70&animation=twinkling)
-<p align="center">jg-kim/README.md</P>
 <br/>
 <h3 align="center">🌟 Skills</h3>
 <p align="center">
