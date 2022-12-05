@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=E45D4C&height=240&section=header&text=jg-kim%20Jeon&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=E45D4C&height=240&section=header&text=jg-kim&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling)
 <br/>
 <h3 align="center">🌟 Skills</h3>
 <p align="center">
