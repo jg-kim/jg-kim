@@ -19,5 +19,4 @@
 <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/></a>&nbsp 
 </p>
-
 <br>
